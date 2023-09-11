@@ -31,7 +31,7 @@ h1.title{
 	display: block;
 	width: 180px;
 	height: 35px;
-	border: 2px solid #fb2274;
+	border: 2px solid #22fb25;
 	line-height: 35px;
 	margin: 25px auto 0;
 	color: #fb2274;
@@ -58,7 +58,7 @@ h1.title{
 .logo a{
 	font-family: 'Allura', cursive;
 	font-size: 32px;
-	color: #fb2274;
+	color: #faf5f7;
 }
 
 .navbar .navbar_items ul{
